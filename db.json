@@ -5,7 +5,42 @@
             "id" : 1,
             "counties" : [
                 {
-                    "name" : "Urumia(Rezaeye)"
+                    "name" : "Urumia(Rezaeye)",
+                    "places" : [
+                        {
+
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "EA",
+            "id" : 2,
+            "counties" : [
+                {
+                    "name" : "Tabriz",
+                    "places" : [
+                        {
+                            
+                        }
+                    ]
+                },
+                {
+                    "name" : "Maragheh",
+                    "places" : [
+                        {
+                            
+                        }
+                    ]
+                },
+                {
+                    "name" : "Marand",
+                    "places" : [
+                        {
+                            
+                        }
+                    ]
                 }
             ]
         }
