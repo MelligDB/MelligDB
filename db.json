@@ -2,12 +2,12 @@
     "Provinces" : [
         {
             "name" : "WA",
-            "id" : 1
-        }
-    ],
-    "WA" : [
-        {
-            "name" : "Urumia(Rezaeye)"
+            "id" : 1,
+            "counties" : [
+                {
+                    "name" : "Urumia(Rezaeye)"
+                }
+            ]
         }
     ]
 }
