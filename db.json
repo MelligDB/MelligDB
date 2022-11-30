@@ -3,11 +3,15 @@
         {
             "name" : "WA",
             "id" : 1,
-            "counties" : [
-                {
-                    "name" : "Urumia(Rezaeye)"
-                }
-            ]
+        }
+    ]
+}
+
+
+{
+    "WA" : [
+        {
+            "name" : "Urumia(Rezaeye)",
         }
     ]
 }
